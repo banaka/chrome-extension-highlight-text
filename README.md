@@ -1,4 +1,5 @@
-chrome-extension-highlight-text
+Highlight Text Chrome Extension
 ===============================
 
-My extension for highlighting text in Chrome
+An extension for highlighting text in Chrome
+Hold Ctrl + Alt while selecting text to make it highlighted.
