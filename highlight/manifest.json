@@ -7,7 +7,7 @@
 		{
 			"matches": ["http://*/*", "https://*/*"],
 			"css": ["annotator.min.css"],
-			"js": ["jquery-1.7.min.js", "annotator-full.min.js", "highlight.js"]
+			"js": ["jquery-1.7.min.js", "annotator-full.min.js", "annotator.offline.min.js", "highlight.js"]
 		}
 	]
 }
