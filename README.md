@@ -3,6 +3,8 @@ Highlight Text Chrome Extension
 
 An extension for highlighting text and putting comment on highlighted text in Chrome.
 
+Credit: http://okfnlabs.org/annotator/
+
 Install the extension. Select any text. Click the comment icon. Put some comment and save it.
 
 You may want to reload the page to see that the comments and highlighted text is saved.
